@@ -1,6 +1,6 @@
 # Food Recipe App
 
-Welcome to the **Food Recipe App**! This is an interactive web application where you can search for recipes and explore the ingredients and measurements for your favorite dishes. Built with React and styled using Tailwind CSS, the app offers a clean, modern, and fully responsive design.
+Welcome to the **Food Recipe App**! This is an interactive web application where you can search for recipes and explore the ingredients and measurements for your favourite dishes. Built with React and styled using Tailwind CSS, the app offers a clean, modern, and fully responsive design.
 
 ## Table of Contents
 - [Features](#features)
@@ -60,10 +60,6 @@ Follow these steps to run the project locally:
 
 2. **License**:
    - Specifies that the project is licensed under the MIT License, and refers to the `LICENSE` file for full licensing details.
-   
-This should be added to the appropriate sections of your `README.md` file to provide clear guidance on how others can contribute and the licensing terms for using the code. Let me know if you need more adjustments!
-
-
 
 ### Key Sections of the `README.md`:
 1. **Features**: Describes the core functionality of the app, such as default food products, search functionality, displaying recipes, and responsiveness.
@@ -74,4 +70,4 @@ This should be added to the appropriate sections of your `README.md` file to pro
 6. **License**: Specifies that the project is licensed under the MIT License.
 7. **Closing**: Adds a fun closing line with an emoji to keep it friendly.
 
-This should give users a good understanding of the app's purpose, features, and how to get started. Let me know if you need any additional changes!
+This should give users a good understanding of the app's purpose, features, and how to get started.
